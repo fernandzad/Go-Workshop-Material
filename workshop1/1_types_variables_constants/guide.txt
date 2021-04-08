@@ -1,0 +1,13 @@
+1. List the different ways to declare a variable
+
+2. How do we declare a constant?
+
+3. How do we get the data type from a specific variable?
+
+4. Operations
+    - between same data type
+    - between different data types
+
+5. Data type aliasing
+    - how to declare and how to use them
+    - using conversions

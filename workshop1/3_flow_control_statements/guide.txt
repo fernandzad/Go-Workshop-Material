@@ -1,0 +1,12 @@
+1. IF - Else
+2. Switch
+    - by value
+    - by condition
+3. For
+    - Classic
+    - As a "while"
+    - Infinite
+    - As a "foreach" using range
+    - Exiting a loop
+    - Maps & Channels
+4. Select

@@ -1,0 +1,9 @@
+1. Declaration
+    - Array
+    - Slice
+    - Cap and Len
+
+2. Basic Operations
+    - Append
+    - Slicing
+    - Variadic function
